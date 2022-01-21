@@ -1,0 +1,13 @@
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\bin\Debug\netcoreapp3.1\Yusuff Ahmad code.exe
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\bin\Debug\netcoreapp3.1\Yusuff Ahmad code.deps.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\bin\Debug\netcoreapp3.1\Yusuff Ahmad code.runtimeconfig.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\bin\Debug\netcoreapp3.1\Yusuff Ahmad code.runtimeconfig.dev.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\bin\Debug\netcoreapp3.1\Yusuff Ahmad code.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\bin\Debug\netcoreapp3.1\Yusuff Ahmad code.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\obj\Debug\netcoreapp3.1\Yusuff Ahmad code.csprojAssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\obj\Debug\netcoreapp3.1\Yusuff Ahmad code.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\obj\Debug\netcoreapp3.1\Yusuff Ahmad code.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\obj\Debug\netcoreapp3.1\Yusuff Ahmad code.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\obj\Debug\netcoreapp3.1\Yusuff Ahmad code.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\obj\Debug\netcoreapp3.1\Yusuff Ahmad code.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Yusuff Ahmad code\obj\Debug\netcoreapp3.1\Yusuff Ahmad code.genruntimeconfig.cache
