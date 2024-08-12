@@ -1,0 +1,3 @@
+This repository contains submissions for the weekly coding challenges organized by Code Learners Hub. Each challenge aims to enhance programming skills and problem-solving abilities through hands-on practice. The repository features a collection of solutions in various programming languages, along with accompanying explanations and insights to help learners understand different approaches to coding problems. Contributions from all participants are welcome, and we encourage collaboration and discussion to foster a supportive learning environment.
+
+Feel free to tweak any part of it to better fit your vision!
